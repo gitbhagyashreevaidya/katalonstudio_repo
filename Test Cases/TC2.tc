@@ -1,0 +1,10 @@
+<!-- --> 
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC created from remote directory</description>
+   <name>TC2</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a11ae8b1-2e50-437c-b0cf-6453bd96577f</testCaseGuid>
+</TestCaseEntity>
